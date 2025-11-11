@@ -2,6 +2,12 @@
 
 A futuristic, AI-powered portfolio website featuring a distinctive cyberpunk aesthetic with Google-inspired branding.
 
+## 🚀 Quick Deploy
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Kvndoshi/kvn-llm-portfolio&project-name=kvn-llm-portfolio&repository-name=kvn-llm-portfolio)
+
+**Or** import from GitHub: https://vercel.com/new
+
 ## 🚀 Features
 
 - **Modern Stack**: Built with Next.js 14, TypeScript, and Tailwind CSS
